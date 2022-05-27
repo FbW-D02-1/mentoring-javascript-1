@@ -15,4 +15,5 @@
   - Arrays sind Listen, die mehrere Daten enthalten können
   - So greifen wir auf Elemente des Arrays zu:
     - `console.log(students[2]); // => Nicki`
-    - ACHTUNG: Der erste Index des Arrays ist 0 (NICHT 1)
+    - ACHTUNG: Der erste Index des Arrays ist 0 (NICHT 1), also:
+    - `console.log(students[0]); // => Dima`
